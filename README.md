@@ -1,2 +1,2 @@
-# spic_demo
+# spic_micro
 some utils demo
